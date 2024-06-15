@@ -1,5 +1,3 @@
-# Install script for directory: D:/PC/Github/EnderSlain456/fun/c++/crash
-
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
   set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/Crash")
