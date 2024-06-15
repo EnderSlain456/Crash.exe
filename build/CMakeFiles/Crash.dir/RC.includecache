@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/PC/Github/EnderSlain456/fun/c++/crash/icon.rc
+windows.h
+-
+

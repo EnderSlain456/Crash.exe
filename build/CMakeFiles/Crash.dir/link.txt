@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\Crash.dir/objects.a
+C:\msys64\ucrt64\bin\ar.exe qc CMakeFiles\Crash.dir/objects.a @CMakeFiles\Crash.dir\objects1.rsp
+C:\msys64\ucrt64\bin\g++.exe -g -static -mwindows -Wl,--whole-archive CMakeFiles\Crash.dir/objects.a -Wl,--no-whole-archive -o Crash.exe -Wl,--out-implib,libCrash.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Crash.dir\linkLibs.rsp
